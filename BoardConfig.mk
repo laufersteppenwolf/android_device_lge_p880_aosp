@@ -6,6 +6,9 @@ TARGET_NO_RADIOIMAGE := true
 TARGET_BOARD_PLATFORM := tegra
 TARGET_BOOTLOADER_BOARD_NAME := p880
 
+# We don't need a recovery
+# TARGET_NO_RECOVERY := true
+
 # Target arch settings
 TARGET_NO_BOOTLOADER := true
 TARGET_CPU_ABI := armeabi-v7a

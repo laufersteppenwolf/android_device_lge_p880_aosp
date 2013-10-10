@@ -15,3 +15,4 @@
 #
 
 add_lunch_combo full_p880-userdebug
+add_lunch_combo full_p880-eng
