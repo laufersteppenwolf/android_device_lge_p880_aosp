@@ -13,6 +13,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-$(call inherit-product, device/lge/mako/full_p880.mk)
+$(call inherit-product, device/lge/p880/full_p880.mk)
 
 PRODUCT_NAME := aosp_p880
